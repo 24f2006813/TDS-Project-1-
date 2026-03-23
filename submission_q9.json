@@ -1,0 +1,6 @@
+{
+  "prompt": "A wide-angle architectural photograph of a massive, ancient stone stairway built into the side of a steep, rocky mountain. The overall macro structure of the grand stairway unmistakably ascends toward the top of the mountain peak. However, every single individual stone step is distinctly and deeply slanted downwards in the opposite direction. Rainwater is clearly pooling at the front, downward-tilted edge of every single individual step, emphasizing the downward slope of the local pieces. The eye perceives the individual pieces tilting down, but the whole structure moving up. Photorealistic, dramatic moody lighting, highly detailed textures. Absolutely no text, no numbers, no charts, no arrows, no people, no floating elements.",
+  "model": "Ideogram 2",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Every individual stone step visibly slants downward (the local trend), yet the combined structure of the staircase unmistakably ascends the mountain (the global trend), making the statistical contradiction a physical reality."
+}
